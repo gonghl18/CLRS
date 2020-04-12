@@ -17,8 +17,8 @@ void sort_my(std::vector<int> &data){
     }
 }
 
-//merge sort
-// merge two sorted vector
+// merge sort
+// merge two sorted vectors
 std::vector<int> merge(std::vector<int> lft, std::vector<int> rht){
     auto lbeg = lft.begin(), lend = lft.end(), rbeg = rht.begin(), rend = rht.end();
     std::vector<int> result;
