@@ -1,4 +1,6 @@
 # Introduction_To_Algs
-Some algorithms in the introduction to algorithms
+Some algorithms in the **introduction to algorithms**. :smile:   
 
-[insertion sort and merge sort](./sort.cpp)
+1. [insertion sort and merge sort](./sort.cpp) This cpp contains algorithm for insertation sort and merge sort.
+
+2. [The maximum-subarray problem](./max_sub.cpp) This cpp contains three algorithms for solving maximum-subarray problem. A brute-force solution with complexity $O(n^2)$. A solution using divide-and-conquer with complexity $O(n\log n)$. A linear solution with $O(n)$.
